@@ -1,7 +1,6 @@
 #ifndef RT__TYPE_HPP_
 #define RT__TYPE_HPP_
 
-#include <cinttypes>
 #include <string>
 #include <memory>
 

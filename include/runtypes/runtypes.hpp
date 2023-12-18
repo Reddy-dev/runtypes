@@ -2,6 +2,6 @@
 #define RT__RUNTYPES_HPP_
 
 // These files includes all public API
-#include <runtypes/Data.hpp>
+#include "Data.hpp"
 
 #endif //RT__RUNTYPES_HPP_

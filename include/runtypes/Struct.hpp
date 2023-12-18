@@ -1,8 +1,8 @@
 #ifndef RT__STRUCT_HPP_
 #define RT__STRUCT_HPP_
 
-#include <runtypes/Exception.hpp>
-#include <runtypes/CType.hpp>
+#include "Exception.hpp"
+#include "CType.hpp"
 
 #include <map>
 #include <vector>

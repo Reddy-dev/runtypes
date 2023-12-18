@@ -1,8 +1,8 @@
 #ifndef RT__CTYPE_HPP_
 #define RT__CTYPE_HPP_
 
-#include <runtypes/Type.hpp>
-#include <runtypes/Exception.hpp>
+#include "Type.hpp"
+#include "Exception.hpp"
 
 #include <typeinfo>
 #include <type_traits>

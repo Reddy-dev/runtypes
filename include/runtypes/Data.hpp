@@ -1,8 +1,8 @@
 #ifndef RT__DATA_HPP_
 #define RT__DATA_HPP_
 
-#include <runtypes/Struct.hpp>
-#include <runtypes/Exception.hpp>
+#include "Struct.hpp"
+#include "Exception.hpp"
 
 #define RT_NO_COPY_ASSIGNABLE_ERROR(TYPE) \
     RT_STATIC_ERROR_TAG \
